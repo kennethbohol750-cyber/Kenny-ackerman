@@ -1,4 +1,6 @@
-# Alex Rivera — BSIT Portfolio
+# Kenneth BOHOl — BSIT Portfolio
+
+# [https://kennethbohol750-cyber.github.io/Kenny-ackerman/](https://kennethbohol750-cyber.github.io/Kenny-ackerman/)
 
 A responsive student portfolio built with plain HTML, CSS, and JavaScript. It includes a project filter, detail modals, a mobile navigation menu, and a small live activity message.
 
